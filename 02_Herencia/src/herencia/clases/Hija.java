@@ -1,7 +1,4 @@
-/**
- * 
- */
-package herencia.clases;
+package java8.herencia.clases;
 
 /**
  * @author Openwebinars
